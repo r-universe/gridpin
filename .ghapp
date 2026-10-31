@@ -1,0 +1,10 @@
+{
+  "id": 177327416,
+  "created_at": "2026-10-31T21:05:21.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["gridpin.r-universe.dev"]
+}
